@@ -9,7 +9,7 @@ This project compared several neural network architectures (including CNNs, RNNs
 ### Project 2: Natural Language Processing
 This project consisted out of two parts: In the first part, we built a basic NLP pipeline to predict readmittance to a hospital, based on textual patient files. In the second part, we built a simple semantic search function for a database of 47K Covid19-related papers.
 
-### Project 3:
+### Project 3: Image Segmentation
 In this project we built an image segmentation system for 3D prostate magnetic resonance images. We trained a UNET architecture to accurately predict background, peripheral zone and central gland zone (see GIF below).
 
 ![](project_3/animation.gif)
